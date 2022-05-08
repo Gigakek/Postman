@@ -1,0 +1,18 @@
+Bug report attributes:
+-Title(*)
+-Summary/Description(*)
+-Steps to reproduce(*)
+-Expected result(*)
+-Actual result(*)
+-Project
+-Module
+-Build version
+-Severity(*)
+-Priority(*)
+-Status
+-Author
+-Assigned to
+-Environment(*)
+-Attachments
+//(*)-designate mandatory attributes
+
