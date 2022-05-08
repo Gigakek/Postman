@@ -1,0 +1,5 @@
+CheckList structure:
+-ID
+-Description
+-Status
+-Comments
