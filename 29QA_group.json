@@ -249,7 +249,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://162.55.220.72:5005/user_info_3",
+					"raw": "http://162.55.220.72:5005/user_info_2",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -259,7 +259,7 @@
 					],
 					"port": "5005",
 					"path": [
-						"user_info_3"
+						"user_info_2"
 					]
 				}
 			},
